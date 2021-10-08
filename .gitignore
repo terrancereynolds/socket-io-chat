@@ -1,0 +1,9 @@
+node_modules
+*.local
+.git
+.firebase*
+.envrc
+build
+.DS_Store
+.env
+ 
